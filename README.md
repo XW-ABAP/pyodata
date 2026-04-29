@@ -26,10 +26,11 @@ pip install requests keyring urllib3 pyodata
 ```
 
 ### **Step 4: Execute the Python Notebook**
-1.  Open VS Code and locate your file named `pyodata1.ipynb`.
-2.  Select the appropriate **Python Kernel** (the environment where you installed the libraries above) in the top-right corner of the editor.
-3.  Copy and paste your logic into the code cells.
-4.  Run the cells to interact with your SAP OData service.
+1.  Open VS Code and locate your file named `pyodata1.ipynb`，
+    For the English version, please refer to this file: 'pyodata1en.ipynb'.
+3.  Select the appropriate **Python Kernel** (the environment where you installed the libraries above) in the top-right corner of the editor.
+4.  Copy and paste your logic into the code cells.
+5.  Run the cells to interact with your SAP OData service.
 
 ---
 
