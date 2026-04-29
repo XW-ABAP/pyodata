@@ -1,7 +1,3 @@
-This sounds like a solid workflow for integrating SAP OData services with Python. I’ve organized your steps into a professional, clear English technical guide for your setup.
-
----
-
 ## **Technical Setup Guide: SAP OData Integration with Python**
 
 Follow these steps to configure your environment and execute OData operations using VS Code and Jupyter Notebooks.
