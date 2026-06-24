@@ -48,3 +48,22 @@ Before implementation, study the OData service logic and the library's technical
 * **Library Reference:**
     * [PyOData Official Documentation](https://pyodata.readthedocs.io/en/latest/) (Visit this site to learn the core functions and advanced configurations of the library.)
 
+
+
+
+
+
+
+怎么把jupter note 转化为exe
+
+
+
+
+![alt text](image.png)
+
+
+先转化为py 文件 然后条用auto-py-to-exe
+这个是命令行执行
+
+
+![alt text](image-1.png)
